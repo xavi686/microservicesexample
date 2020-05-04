@@ -1,2 +1,1 @@
-# microservicesexample
-Testing spring.cloud.config.server.git.uri in spring boot
+service.welcome.message=hola desde la orden de servicio 5.
